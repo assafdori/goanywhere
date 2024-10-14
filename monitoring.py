@@ -1,10 +1,8 @@
 import requests
 from requests.auth import HTTPBasicAuth
 
-# Replace with actual API URL for GoAnywhere Agent status
-api_url = "https://goanywhere-instance/api/agents/status"
+api_url = "HTTP://API.HACKATON-GOA.BULWARX.LOCAL"
 
-# Authentication (Basic Auth) - replace with your actual credentials
 username = "your_username"
 password = "your_password"
 
